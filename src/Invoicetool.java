@@ -14,7 +14,7 @@ public class Invoicetool {
 	//static final String[] spam = new String[] { "556", "330", "775", "940", "077", "165" };
 	
 	// 99 03~04
-	static final String[] spam = new String[] { "190", "632", "867", "175", "077", "263" };
+	//static final String[] spam = new String[] { "190", "632", "867", "175", "077", "263" };
 	
 	// 99 05~06
 	//static final String[] spam = new String[] { "315", "783", "073", "685", "092", "998" };
@@ -31,6 +31,9 @@ public class Invoicetool {
 
 	// 100 9~10
 	// static final String[] spam = new String[] { "465", "487", "106", "929", "557" };
+	
+	// 105 7~8
+	static final String[] spam = new String[] { "013", "127", "444", "525", "065", "352", "672", "731", "214" };
 
 	static List<String> intlist;
 
